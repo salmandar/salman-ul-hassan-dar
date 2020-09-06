@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Salman Ul Hassan Dar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
