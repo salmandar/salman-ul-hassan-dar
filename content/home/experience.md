@@ -33,10 +33,11 @@ date_format = "Jan 2006"
   location = "Ankara, Turkey"
   date_start = "2013-08-01"
   date_end = "present"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Taught electronic engineering and researched semiconductor physics.
   Courses include:
   
   * Statistical Learning and Data Analytics
   * Neural Networks
   * Computational Neuroscience
+  """
 +++
