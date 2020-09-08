@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Ankara, Turkey"
   date_start = "2014-01-01"
-  date_end = "present"
+  date_end = ""
   description = ""
 
 [[experience]]
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Ankara, Turkey"
   date_start = "2013-08-01"
-  date_end = "present"
+  date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics.
   Courses include:
   
