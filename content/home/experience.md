@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Ankara, Turkey"
   date_start = "2014-01-01"
   date_end = "present"
-
+  description = ""
 
 [[experience]]
   title = "Teaching Assistant"
