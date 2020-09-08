@@ -93,7 +93,7 @@ phone = "+905535440573"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Üniversiteler, Bilkent 6. Cd.", city = "Ankara", region = "Çankaya", postcode = "06800", country = "Turkey", country_code = "TR"}
+address = {street = "Üniversiteler, Bilkent 6. Cd., Çankaya", city = "Ankara", postcode = "06800", country = "Turkey", country_code = "TR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
