@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: Bilkent University
-  url: ""
+  url: "https://w3.bilkent.edu.tr/bilkent/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -33,7 +33,7 @@ education:
   - course: MSc in Electrical and Electronics Engineering
     institution: Bilkent University
     year: 2016
-  - course: BSc in Artificial Intelligence
+  - course: BSc in Mechatronics Engineering
     institution: National University of Sciences and Technology
     year: 2012
 
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Salman Ul Hassan Dar is a PhD candicate at the Bilkent University. His research interests include machine learning, computer vision and medical imaging. He is working as a researcher at the National Magnetic Resonance Center (UMRAM), where he he develops algorithms for acceleration MR imaging.
+Salman Ul Hassan Dar is a PhD candicate at the Bilkent University. His research interests include machine learning, computer vision and medical imaging. He is working as a researcher at the National Magnetic Resonance Center (UMRAM), where he develops algorithms for acceleration MR imaging.
 
 
