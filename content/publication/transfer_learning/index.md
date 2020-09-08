@@ -4,7 +4,7 @@ authors:
 - admin
 - Muzaffer Özbey
 - Ahmet Burak Çatlı
--Tolga Çukur
+- Tolga Çukur
 author_notes:
 
 date: "2015-09-01T00:00:00Z"
