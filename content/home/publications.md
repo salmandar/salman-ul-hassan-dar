@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    tag = "haha"
+    category = "hahaha"
+    publication_type = "hahahaha"
+    author = "me"
     exclude_featured = false
   
 [design]
@@ -58,12 +58,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
- [item]
 
-  title = "Neural Networks and Deep Learning"
-  url = ""
-
-  description = "haha" 
 [advanced]
  # Custom CSS. 
  css_style = ""
