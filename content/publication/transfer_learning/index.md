@@ -1,12 +1,13 @@
 ---
-title: "A transfer Learning Approach for Accelerated MRI using Deep Neural Networks"
+title: "An example journal article"
 authors:
 - admin
 - Muzaffer Özbey
 - Ahmet Burak Çatlı
 - Tolga Çukur
 author_notes:
-
+- "Equal contribution"
+- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -23,15 +24,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: 
-Purpose
-Neural networks have received recent interest for reconstruction of undersampled MR acquisitions. Ideally, network performance should be optimized by drawing the training and testing data from the same domain. In practice, however, large datasets comprising hundreds of subjects scanned under a common protocol are rare. The goal of this study is to introduce a transfer‐learning approach to address the problem of data scarcity in training deep networks for accelerated MRI.
-Methods
-Neural networks were trained on thousands (upto 4 thousand) of samples from public datasets of either natural images or brain MR images. The networks were then fine‐tuned using only tens of brain MR images in a distinct testing domain. Domain‐transferred networks were compared to networks trained directly in the testing domain. Network performance was evaluated for varying acceleration factors (4‐10), number of training samples (0.5‐4k), and number of fine‐tuning samples (0‐100).
-Results
-The proposed approach achieves successful domain transfer between MR images acquired with different contrasts (T1‐ and T2‐weighted images) and between natural and MR images (ImageNet and T1‐ or T2‐weighted images). Networks obtained via transfer learning using only tens of images in the testing domain achieve nearly identical performance to networks trained directly in the testing domain using thousands (upto 4 thousand) of images.
-Conclusion
-The proposed approach might facilitate the use of neural networks for MRI reconstruction without the need for collection of extensive imaging datasets.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
