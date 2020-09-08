@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "A transfer Learning Approach for Accelerated MRI using Deep Neural Networks"
 authors:
 - admin
-- Robert Ford
+- Muzaffer Özbey
+- Ahmet Burak Çatlı
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
