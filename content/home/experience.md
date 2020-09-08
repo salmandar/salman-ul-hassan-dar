@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Researcher"
   company = "National Magnetic Resonance Research Center"
   company_url = ""
-  location = "Ankara, Turkey"
+  location = "Ankara"
   date_start = "2014-01-01"
   date_end = ""
   description = ""
@@ -30,11 +30,10 @@ date_format = "Jan 2006"
   title = "Teaching Assistant"
   company = "Bilkent University"
   company_url = ""
-  location = "Ankara, Turkey"
+  location = "Ankara"
   date_start = "2013-08-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics.
-  Courses include:
+  description = """ Courses include:
   
   * Statistical Learning and Data Analytics
   * Neural Networks
