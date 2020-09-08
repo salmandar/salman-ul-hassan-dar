@@ -58,7 +58,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
- [[item]]
+ [item]
 
   title = "Neural Networks and Deep Learning"
   url = ""
@@ -72,6 +72,4 @@ subtitle = ""
  css_class = ""
 +++
 
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
+
